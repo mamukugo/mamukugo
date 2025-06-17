@@ -1,8 +1,9 @@
-## Hi there,  Future Employer 👋
+## Hey there,  Future Employer 👋
 
 # 👩‍💻 Monica Amukugo
 Aspiring Data Scientist  
-📍 Windhoek, Namibia · ✉️ [monicaamukugo@icloud.com] · 📞 [+264 81 8862433]  
+📍 Windhoek, Namibia · ✉️ [monicaamukugo@icloud.com] · 📞 [+264 81 8862433] 
+
 [GitHub](https://github.com/mamukugo) · [LinkedIn](http://www.linkedin.com/in/monica-a-353270115) · [Portfolio](https://yourportfolio.com)
 
 ---
@@ -20,7 +21,7 @@ _University Of Namibia_, Windhoek — _Expected Graduation: 2025_
 ** UNAM institutional student loan repayment capability model **  
   
 - Developed a loan repayment predictor model using Python using a Decision Tree Classifier with data I collected from real students to enhance its application in the real world. The project included data collecting , data preprocessing , data modelling and data visualization . 
-[GitHub project description and code](https://github.com/mamukugo/Loan-Prediction-model/blob/main/Final%20code%20for%20project)
+- [GitHub project description and code](https://github.com/mamukugo/Loan-Prediction-model/blob/main/Final%20code%20for%20project)
 
 ** Chatbot for Ministry of Home Affairs**  
 _Built and  trained a chatbot using Python to answer basic questions commonly asked e.g What documents are needed to create a passport. The chatbot efficiently handles queries with pre-programmed responses. Making it the perfect tool to deliver information fast and easily in the real world.
