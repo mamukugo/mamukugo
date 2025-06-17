@@ -1,17 +1,17 @@
-## Hi there 👋
+## Hi there,  Future Employer 👋
 
-# 👩‍💻 Your Name
-Aspiring Data Scientist | [Your University Name]  
-📍 Your City, Country · ✉️ [your.email@example.com] · 📞 [+123 456 7890]  
-[GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourprofile) · [Portfolio](https://yourportfolio.com)
+# 👩‍💻 Monica Amukugo
+Aspiring Data Scientist  
+📍 Windhoek, Namibia · ✉️ [monicaamukugo@icloud.com] · 📞 [+264 81 8862433]  
+[GitHub](https://github.com/mamukugo) · [LinkedIn](http://www.linkedin.com/in/monica-a-353270115) · [Portfolio](https://yourportfolio.com)
 
 ---
 
 ## 🎓 Education
 
 **Bachelor of Science in Data Science**  
-_Your University Name_, City — _Expected Graduation: YYYY_  
-- Relevant coursework: Machine Learning, Statistics, Python Programming, Data Structures
+_University Of Namibia_, Windhoek — _Expected Graduation: 2025_  
+- Relevant coursework: Machine Learning, Statistics, Python Programming, Data Structures and Algorthim , Linear Algebra , Regression Models
 
 ---
 
@@ -32,17 +32,17 @@ _Analyzed public sentiment using Natural Language Processing (NLP)_
 
 ## 🛠️ Skills
 
-- **Programming:** Python, R, SQL, Bash, Git  
-- **Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn  
-- **Tools:** Jupyter, Tableau, Excel, Power BI, GitHub  
+- **Programming:** Python and SQL  
+- **Data Science Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- **Tools:** Jupyter, Visual Studio, GitHub  
 - **Soft Skills:** Communication, Teamwork, Problem Solving
 
 ---
 
 ## 🏆 Certifications
 
-- IBM Data Science Professional Certificate – Coursera (2024)  
-- Google Data Analytics Certificate – Coursera (2023)
+- IBM Data Science Professional Certificate – Coursera (2025)  
+- Microsoft Certfied: Azure Data Fundamentals – Microsoft (2023)
 
 ---
 
