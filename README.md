@@ -1,10 +1,7 @@
 ## Hi there 👋
 
 <!--
----
-layout: default
-title: "Your Name - Data Science Resume"
----
+
 
 # 👩‍💻 Your Name
 Aspiring Data Scientist | [Your University Name]  
