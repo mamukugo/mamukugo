@@ -17,16 +17,14 @@ _University Of Namibia_, Windhoek — _Expected Graduation: 2025_
 
 ## 💼 Projects
 
-**📊 COVID-19 Data Dashboard**  
-_Visualized global COVID-19 cases using Python, Plotly & Dash_  
-- Performed data cleaning with Pandas, visualization with Plotly  
-- Deployed using Heroku and GitHub Pages  
-[GitHub Repo](https://github.com/yourusername/covid-dashboard)
+**📊 UNAM institutional student loan repayment capability model **  
+  
+- Developed a loan repayment predictor model using Python using a Decision Tree Classifier with data I collected from real students to enhance its application in the real world. The project included data collecting , data preprocessing , data modelling and data visualization . 
 
-**🧠 Sentiment Analysis on Tweets**  
-_Analyzed public sentiment using Natural Language Processing (NLP)_  
-- Cleaned text data using NLTK and performed classification with Scikit-learn  
-- Achieved 85% accuracy using Logistic Regression  
+[GitHub](https://github.com/mamukugo/Loan-Prediction-model/blob/main/Final%20code%20for%20project)
+
+**🧠 Chatbot for Ministry of Home Affairs**  
+_Built and  trained a chatbot using Python to answer basic questions commonly asked e.g What documents are needed to create a passport. The chatbot efficiently handles queries with pre-programmed responses. Making it the perfect tool to deliver information fast and easily in the real world.
 
 ---
 
