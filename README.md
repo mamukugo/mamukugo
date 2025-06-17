@@ -11,8 +11,8 @@ Aspiring Data Scientist
 ##  Education
 
 **Bachelor of Science in Data Science**  
-_University Of Namibia_, Windhoek —  
-- Relevant coursework: Machine Learning, Statistics, Python Programming, Data Structures and Algorthim , Linear Algebra , Regression Models
+_University Of Namibia_, Windhoek  
+- Relevant coursework: Machine Learning, Statistics, Python Programming, Data Structures and Algorthims , Linear Algebra , Regression Models
 
 **Cambridge A level**  
 _Swakopmund Private School_, Swakopmund  
