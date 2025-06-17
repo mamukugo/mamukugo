@@ -4,8 +4,7 @@
 Aspiring Data Scientist  
 📍 Windhoek, Namibia · ✉️ [monicaamukugo@icloud.com] · 📞 [+264 81 8862433] 
 
-[GitHub](https://github.com/mamukugo) · [LinkedIn](http://www.linkedin.com/in/monica-a-353270115) · [Portfolio](https://yourportfolio.com)
-
+[GitHub](https://github.com/mamukugo) · [LinkedIn](http://www.linkedin.com/in/monica-a-353270115) 
 ---
 
 ##  Education
