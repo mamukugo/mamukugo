@@ -18,7 +18,7 @@ _University Of Namibia_, Windhoek —
 _Swakopmund Private School_, Swakopmund  
 
 **Cambridge AS level and IGCSE**  
-_St Georges School_, Windhoek_  
+_St Georges School_, Windhoek  
 
 ---
 
