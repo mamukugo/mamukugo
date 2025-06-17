@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-
-
 # 👩‍💻 Your Name
 Aspiring Data Scientist | [Your University Name]  
 📍 Your City, Country · ✉️ [your.email@example.com] · 📞 [+123 456 7890]  
@@ -62,4 +59,4 @@ _Analyzed public sentiment using Natural Language Processing (NLP)_
 If you'd like to connect or collaborate, feel free to [email me](mailto:your.email@example.com).
 
 
--->
+
