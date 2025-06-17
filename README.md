@@ -50,17 +50,17 @@ _Built and  trained a chatbot using Python to answer basic questions commonly as
 
 ---
 
-##  Hobbies
+##  Hobbies and Interests
 
-- Reading about AI & Tech Ethics  
-- Hiking & Nature Photography  
-- Chess & Logical Puzzles  
+- Gyming and Fitness 
+- Holistic Living  
+- Beauty and Lifestyle  
 
 ---
 
 ##  Contact
 
-If you'd like to connect or collaborate, feel free to [email me](mailto:your.email@example.com).
+If you'd like to connect or collaborate, feel free to [email me](mailto:monicaamukugo@icloud.com).
 
 
 
