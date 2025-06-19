@@ -28,8 +28,9 @@ _St Georges School_, Windhoek
 - Developed a loan repayment predictor model using Python using a Decision Tree Classifier with data I collected from real students to enhance its application in the real world. The project included data collecting , data preprocessing , data modelling and data visualization . 
 _[GitHub project description and code](https://github.com/mamukugo/Loan-Prediction-model/blob/main/Final%20code%20for%20project)_
 
-**Chatbot for Ministry of Home Affairs**  
-_Built and  trained a chatbot using Python to answer basic questions commonly asked e.g What documents are needed to create a passport. The chatbot efficiently handles queries with pre-programmed responses. Making it the perfect tool to deliver information fast and easily in the real world.
+**Enterprise retail store data analysis**  
+
+- The objective of this project is to analyze transactional data for an online store business in an effort to uncover data-driven insights for making informed business decisions. Analysis includes finding top products, best customers, sales over time and countries , and overall customer buying behavior. These insights should help the company with making better decisions on inventory management , marketing strategy, how to keep customers , and maximize profits._[GitHub project description and code](https://github.com/mamukugo/Retail-Store-Analysis)_
 
 ---
 
