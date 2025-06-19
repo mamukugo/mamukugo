@@ -46,7 +46,7 @@ _[GitHub project description and code](https://github.com/mamukugo/Loan-Predicti
 ##  Certifications
 
 - IBM Data Science Professional Certificate – Coursera (2025)  
-- Microsoft Certfied: Azure Data Fundamentals – Microsoft (2023)
+- Microsoft Certfied: Azure Data Fundamentals – Microsoft (2025)
 
 ---
 
