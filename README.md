@@ -11,7 +11,7 @@ Aspiring Data Scientist
 
 **Bachelor of Science in Data Science**  
 _University Of Namibia_, Windhoek  
-- Relevant coursework: Machine Learning, Statistics, Python Programming, Data Structures and Algorthims , Linear Algebra , Regression Models
+- Relevant coursework: Machine Learning, Statistics, Python Programming, Data Structures and Algorthims , Linear Algebra ,Calculus , Regression Models
 
 **Cambridge A level**  
 _Swakopmund Private School_, Swakopmund  
@@ -46,7 +46,7 @@ _[GitHub project description and code](https://github.com/mamukugo/Loan-Predicti
 ##  Certifications
 
 - IBM Data Science Professional Certificate – Coursera (2025)  
-- Microsoft Certfied: Azure Data Fundamentals – Microsoft (2025)
+
 
 ---
 
