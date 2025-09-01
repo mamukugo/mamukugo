@@ -1,4 +1,4 @@
-## Hey there,  Future Employer 👋
+## Hey there 👋
 
 # 👩‍💻 Monica Amukugo
 Aspiring Data Scientist  
