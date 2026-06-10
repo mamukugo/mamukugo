@@ -45,7 +45,8 @@ _[GitHub project description and code](https://github.com/mamukugo/Loan-Predicti
 
 ##  Certifications
 
-- IBM Data Science Professional Certificate – Coursera (2025)  
+- IBM Data Science Professional Certificate – Coursera (2025)
+- Cisco Linux Essentials Certificate – Cisco (2025)
 
 
 ---
